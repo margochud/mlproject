@@ -1,0 +1,12 @@
+Name                                          Stmts   Miss  Cover   Missing
+---------------------------------------------------------------------------
+baseline.py                                     142      5    96%   165, 314-319
+tests\__init__.py                                 0      0   100%
+tests\test_get_precision_recall_accuracy.py      13      0   100%
+tests\test_kdtree.py                             13      0   100%
+tests\test_knearest.py                           18      4    78%   20-24
+tests\test_read.py                               15      0   100%
+tests\test_stdscaler.py                          12      0   100%
+tests\test_train_test_split.py                   13      0   100%
+---------------------------------------------------------------------------
+TOTAL                                           226      9    96%
