@@ -4,3 +4,4 @@
 1. Загрузить проект на github
 2. Написать отчет о использовании codstyle инструментов (файл reports/report_linters)
 3. Покрыть код тестами, посчитать coverage. Отчет находится в reports/report_coverage, coverage = 96 %.
+4. Реализован CLI (соответствующие файлы лежат в workflow), создан snakefile с правилами для получения графиков
